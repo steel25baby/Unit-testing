@@ -1,0 +1,20 @@
+{
+  "name": "jest_assignment",
+  "private": true,
+  "version": "0.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test":"jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "vite": "^5.2.0"
+  },
+  "description": "\"unit testing assignment using jest\"",
+  "main": "main.js",
+  "author": "\"Bridget\"",
+  "license": "ISC"
+}
